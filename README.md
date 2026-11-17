@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Loen
 
-<!--
-**WuYa-Luww/WuYa-Luww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer | AI Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I build things, explore AI, and turn business ideas into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Code with AI. Build for Business.**
+
+- 💻 Full-stack development with Java, Go and modern web technologies.
+- 🤖 Interested in AI, LLMs, AI agents and Vibe Coding.
+- 🚀 Focused on turning business pain points into practical solutions.
+- 🛠️ Always experimenting with new tools and better ways to build.
+
+### ⚡ Tech Stack
+
+`Java` `Go` `Spring Boot` `MySQL` `Redis` `Linux` `Nginx`
+
+### 🧠 My Philosophy
+
+> Technology is a tool, not the destination.
+>
+> Solve real problems. Build things that matter.
+
+### 🤖 Current Status
+
+```text
+Human + AI
+      ↓
+Ideas → Code → Products
+      ↓
+Solving Real Problems
+```
+
+**Less talking. More building.**
+
+⭐ Thanks for stopping by!
